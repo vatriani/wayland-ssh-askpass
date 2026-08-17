@@ -1,0 +1,6 @@
+wayland-ssh-askpass
+src/*.o
+src/wlr-layer-shell-unstable-v1-client-protocol.h
+src/wlr-layer-shell-unstable-v1.c
+src/xdg-shell-client-protocol.h
+src/xdg-shell.c
